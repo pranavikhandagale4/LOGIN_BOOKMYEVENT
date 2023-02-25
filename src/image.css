@@ -1,0 +1,15 @@
+#leftHalf {
+    background: url(R.jpg);
+    width: 50%;
+    position: absolute;
+    left: 0px;
+    height: 100%;
+ }
+ 
+ #rightHalf {
+ 
+    width: 50%;
+    position: absolute;
+    right: 0px;
+    height: 100%;
+ }
